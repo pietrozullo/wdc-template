@@ -138,3 +138,15 @@ By default, this starter only comes with the google provider which you'll need t
 TODO: add info
 
 ## Posthog
+
+
+## Useful Links
+* Billing [Strip](https://stripe.com)
+* Deployment [Railway](https://railway.app/)
+* Metrics [Posthog](https://posthog.com/)
+* Google Auth [GoogleCloud](https://console.cloud.google.com/apis/credentials)
+* Database [Supabase](https://supabase.com/)
+* Authentication [Lucia](https://lucia-auth.com/)
+* Cloud Provider [CloudFlare](https://cloudflare.com)
+* Domain Hosting [Namecheap](https://namecheap.com)
+* Emails [Resend](https://resend.com)
